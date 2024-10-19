@@ -23,7 +23,7 @@ function headerHTML() {
           <img src="https://i.imgur.com/RC88ntO.gif" alt="" />
         </div>
         <div class="header-content">
-			<div class="header-title">Website Title</div>
+			<div class="header-title">Welcome to my web diary!!!</div>
 	        <nav>
 	          <ul>
 	            <li><a href="#">Home</a></li>
