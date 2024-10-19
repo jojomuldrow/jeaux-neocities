@@ -66,6 +66,7 @@ function headerHTML() {
 		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
 		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
 		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
+        <a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
 		  </marquee>
         </div>
 		<div class="sidebar-section">
