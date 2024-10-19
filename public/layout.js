@@ -61,12 +61,15 @@ function headerHTML() {
           </ul>
         </div>
 		<div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
+          <div class="sidebar-title">Press my buttons, baby!</div>
           <marquee>
-		  	<a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
-		  	<a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
-		  	<a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
-        <a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
+		  	<a href="https://neocities.org/" target="_blank"><img src="https://i.imgur.com/R3SAZLs.gif" alt="neocities button"></a>
+		  	<a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/cT78VA1.png" alt="queer button"></a>
+        <a href="https://linktr.ee/onmysims" target="_blank"><img src="https://i.imgur.com/M5BQRvN.png" alt="OMS button"></a>
+		  	<a href="https://code.visualstudio.com/" target="_blank"><img src="https://i.imgur.com/NqCGHlO.png" alt="vs studio button"></a>
+        <a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/SYa54eN.gif" alt="sailor button"></a>
+        <a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/T0quvnt.gif" alt="hk button"></a>
+        <a href="https://x.com/onmysims" target="_blank"><img src="https://i.imgur.com/8Nzye80.gif" alt="sim fan button"></a>
 		  </marquee>
         </div>
 		<div class="sidebar-section">
