@@ -63,10 +63,10 @@ function headerHTML() {
 		<div class="sidebar-section">
           <div class="sidebar-title">Section Title</div>
           <marquee>
-		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
-		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
-		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
-        <a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
+		  	<a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
+		  	<a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
+		  	<a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
+        <a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
 		  </marquee>
         </div>
 		<div class="sidebar-section">
@@ -74,10 +74,10 @@ function headerHTML() {
           <img class="full-width-image" src="https://picsum.photos/id/25/900/400">
         </div>
 		<div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
+          <div class="sidebar-title">Link back!</div>
           <div class="site-button">
-		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-			<textarea><a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a></textarea>
+		  	<a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
+			<textarea><a href="https://jeaux.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a></textarea>
 		  </div>
         </div>
       </aside>
