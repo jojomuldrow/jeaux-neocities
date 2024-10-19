@@ -63,10 +63,9 @@ function headerHTML() {
 		<div class="sidebar-section">
           <div class="sidebar-title">Section Title</div>
           <marquee>
-		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
+		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
+		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
+		  	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://i.imgur.com/aDZvqvj.gif" alt="jeaux button"></a>
 		  </marquee>
         </div>
 		<div class="sidebar-section">
