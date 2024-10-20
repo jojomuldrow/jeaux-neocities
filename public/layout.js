@@ -27,11 +27,11 @@ function headerHTML() {
 	        <nav>
 	          <ul>
 	            <li><a href="#">Home</a></li>
-	            <li><a href="#">Blog</a></li>
-	            <li><a href="#">Page 2</a></li>
-	            <li><a href="#">Page 3</a></li>
-	            <li><a href="#">Page 5</a></li>
-	            <li><a href="#">Page 4</a></li>
+	            <li><a href="#">Diary</a></li>
+	            <li><a href="#">Images</a></li>
+	            <li><a href="#">Shrine(s)</a></li>
+	            <li><a href="#">Resources</a></li>
+	            <li><a href="#">Other Socials</a></li>
 	          </ul>
 	        </>
 		</div>
