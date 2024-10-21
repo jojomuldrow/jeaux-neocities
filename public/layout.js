@@ -29,7 +29,7 @@ function headerHTML() {
 	            <li><a href="#">Home</a></li>
 	            <li><a href="#">Diary</a></li>
 	            <li><a href="#">Images</a></li>
-              <li><a href="ezine.html" target="_blank" rel="noopener noreferrer">E-Zines</a></li>
+              <li><a href="ezineindex.html" target="_blank" rel="noopener noreferrer">E-Zines</a></li>
 	            <li><a href="#">Shrine(s)</a></li>
 	            <li><a href="#">Resources</a></li>
 	            <li><a href="#">Other Socials</a></li>
