@@ -32,7 +32,7 @@ function headerHTML() {
               <li><a href="ezine.html">E-Zines</a></li>
 	            <li><a href="#">Shrine(s)</a></li>
 	            <li><a href="#">Resources</a></li>
-	            <li><a href="other socials.html">Other Socials</a></li>
+	            <li><a href="othersocials.html">Other Socials</a></li>
 	          </ul>
 	        </>
 		</div>
