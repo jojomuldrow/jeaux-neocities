@@ -1,4 +1,4 @@
-var fsbutton = document.querySelector('#container .fsbutton');
+var button = document.querySelector('#container .fsbutton');
 fsbutton.addEventListener('click', fullscreen);
 // when you are in fullscreen, ESC and F11 may not be trigger by keydown listener. 
 // so don't use it to detect exit fullscreen
