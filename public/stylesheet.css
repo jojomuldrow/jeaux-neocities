@@ -572,7 +572,7 @@ main h6 {
     -ms-grid-column: 1;
     -ms-grid-column-span: 1;
   }
-  
+
   /* -------------------------------------------------------- */
 /* 	FULLSCREEN EZINE BUTTONS */
   
@@ -587,7 +587,7 @@ html, body {
   height: 100%;
 }
 
-.button {
+.fsbutton {
   color: #333;
   background-color: #fff;
   border-color: #ccc;
