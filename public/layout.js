@@ -19,11 +19,6 @@ function headerHTML() {
 
   return `
 <header>
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@onmysims" />
-<meta name="twitter:title" content="On My Sims" />
-<meta name="twitter:description" content="OMS Content" />
-<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1839766731373342720/yWh8ycMY_400x400.jpg" />
 <div class="header-image">
           <img src="https://i.imgur.com/RC88ntO.gif" alt="" />
         </div>
