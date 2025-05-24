@@ -27,7 +27,7 @@ function headerHTML() {
 	        <nav>
 	          <ul>
 	            <li><a href="index.html">Home</a></a></li>
-	            <li><a href="#">Diary</a></li>
+	            <li><a href="diary.html">Diary</a></li>
 	            <li><a href="#">Images</a></li>
               <li><a href="ezine.html">E-Zines</a></li>
 	            <li><a href="#">Shrine(s)</a></li>
