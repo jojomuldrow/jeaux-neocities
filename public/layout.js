@@ -26,7 +26,7 @@ function headerHTML() {
 			<div class="header-title">Welcome to my web diary!!!</div>
 	        <nav>
 	          <ul>
-	            <li><a href="index.html">Home</a></li>
+	            <li><a href="https://jeaux.neocities.org/">Home</a></li>
 	            <li><a href="#">Diary</a></li>
 	            <li><a href="#">Images</a></li>
               <li><a href="ezine.html">E-Zines</a></li>
