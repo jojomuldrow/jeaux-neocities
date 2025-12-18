@@ -100,7 +100,8 @@ header {
   border-radius: var(--round-borders);
   overflow: hidden;
   background: var(--content-background-color);
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .header-content {
