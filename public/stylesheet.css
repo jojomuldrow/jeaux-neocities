@@ -100,12 +100,12 @@ header {
   border-radius: var(--round-borders);
   overflow: hidden;
   background: var(--content-background-color);
-  display: flex;
-  justify-content: center;
 }
 
 .header-content {
   padding: var(--padding);
+  display: flex;
+  justify-content: center;
 }
 
 .header-title {
