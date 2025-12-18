@@ -84,7 +84,7 @@ a:focus {
   display: -ms-grid;
   display: grid;
   grid-gap: var(--margin);
-  width: 90vw;
+  max-width: 1000px;
   -ms-grid-rows: auto var(--margin) auto var(--margin) auto;
   -ms-grid-columns: var(--sidebar-width) var(--margin) auto;
       grid-template: "header header" auto "leftSidebar main" auto "footer footer" auto / var(--sidebar-width) auto;
