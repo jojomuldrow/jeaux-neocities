@@ -45,7 +45,7 @@ body {
   background: var(--background-color);
   background-image: url("https://64.media.tumblr.com/dcc745247b2317626b0d3dd8c06691ae/796acb8a0892625b-c9/s400x600/25c8f8205918c818a638353c855039fed979c4aa.gifv");
   
-  max-height: 100vh;
+  min-height: 100vh;
   font-size: var(--font-size);
   margin: 0;
   padding: var(--margin);
