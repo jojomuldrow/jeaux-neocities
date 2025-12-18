@@ -100,11 +100,11 @@ header {
   border-radius: var(--round-borders);
   overflow: hidden;
   background: var(--content-background-color);
+  text-align: center;
 }
 
 .header-content {
   padding: var(--padding);
-  text-align: center;
 }
 
 .header-title {
