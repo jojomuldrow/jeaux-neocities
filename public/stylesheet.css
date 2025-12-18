@@ -98,7 +98,7 @@ header {
   font-size: 1.2em;
   border: var(--border);
   border-radius: var(--round-borders);
-  overflow: hidden;
+  overflow: auto;
   background: var(--content-background-color);
 }
 
