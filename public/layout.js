@@ -40,6 +40,7 @@ function headerHTML() {
       <aside class="left-sidebar">
 	  
         <div class="sidebar-section">
+        <img class="image" alt="hk angel gif" src="https://i.imgur.com/nMVuaOk.gif" style="width: 30%"/>
           <div class="sidebar-title">Section Title</div>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
           <p>Necessit atibus perferendis inventore tempore vel optio similique blanditiis quasi quam?</p>
