@@ -40,9 +40,9 @@ function headerHTML() {
       <aside class="left-sidebar">
 	  <img class="image" alt="hk angel gif" src="https://i.imgur.com/nMVuaOk.gif" style="width: 90%"/>
         <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <blockquote><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-          <p>Necessit atibus perferendis inventore tempore vel optio similique blanditiis quasi quam?</p></blockquote>
+          <div class="sidebar-title">hits & current visitors</div>
+          <blockquote><a style="position:fixed;z-index:1339; !important;top:55px;left:3px;" href="http://www.snazzyspace.com/generators/viewer-counter/" title="SnazzySpace.com Viewer Counter" target="_blank">
+          <img src="http://www.snazzyspace.com/generators/viewer-counter/counter.php/fid=1766180608/style=6/counter.png" border="0"></a></blockquote>
         </div>
         <div class="sidebar-section">
           <div class="sidebar-title">Section Title</div>
