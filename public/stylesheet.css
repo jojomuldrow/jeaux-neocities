@@ -177,6 +177,15 @@ aside {
   margin: 1em 0;
   border-radius: 10px;
   overflow: hidden;
+  width: 80%;
+    height: 200;
+    background-color: #e7bdff;
+    border: 5px solid;
+    border-style: dotted;
+  
+    h1 {
+      text-align: center;
+    }
 }
 
 .sidebar-section blockquote > *:first-child {

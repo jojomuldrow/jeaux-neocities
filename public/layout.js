@@ -38,12 +38,11 @@ function headerHTML() {
       </header>
 	  
       <aside class="left-sidebar">
-	  
+	  <img class="image" alt="hk angel gif" src="https://i.imgur.com/nMVuaOk.gif" style="width: 90%"/>
         <div class="sidebar-section">
-        <img class="image" alt="hk angel gif" src="https://i.imgur.com/nMVuaOk.gif" style="width: 90%"/>
           <div class="sidebar-title">Section Title</div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-          <p>Necessit atibus perferendis inventore tempore vel optio similique blanditiis quasi quam?</p>
+          <blockquote><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+          <p>Necessit atibus perferendis inventore tempore vel optio similique blanditiis quasi quam?</p></blockquote>
         </div>
         <div class="sidebar-section">
           <div class="sidebar-title">Section Title</div>
