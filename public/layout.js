@@ -40,8 +40,10 @@ function headerHTML() {
       <aside class="left-sidebar">
 	  <img class="image" alt="hk angel gif" src="https://i.imgur.com/nMVuaOk.gif" style="width: 90%"/>
         <div class="sidebar-section">
-          <div class="sidebar-title"><p>hits & current visitors<script type="text/javascript" src="https://counter.websiteout.com/js/30/0/0/0"></script><img class="image" alt="stats gif" src="https://i.imgur.com/kGkEiqz.gif" style="width: 15%"/></p></div>
-          <blockquote><a style="position:static;z-index:1339; !important;top:55px;left:3px;" href="http://www.snazzyspace.com/generators/viewer-counter/" title="SnazzySpace.com Viewer Counter" target="_blank">
+          <div class="sidebar-title"><p>hits & current visitors <img class="image" alt="stats gif" src="https://i.imgur.com/kGkEiqz.gif" style="width: 15%"/></p></div>
+          <blockquote> <!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com/" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=21464930&style=0014&nbdigits=5&type=page&initCount=0" title="Free Tools" Alt="Free Tools"   border="0" /></a><a style="position:static;z-index:1339; !important;top:55px;left:3px;" href="http://www.snazzyspace.com/generators/viewer-counter/" title="SnazzySpace.com Viewer Counter" target="_blank">
           <img src="http://www.snazzyspace.com/generators/viewer-counter/counter.php/fid=1766180608/style=6/counter.png" border="0"></a></blockquote>
         </div>
         <div class="sidebar-section">
