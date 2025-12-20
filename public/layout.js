@@ -54,13 +54,13 @@ function headerHTML() {
           </blockquote>
         </div>
         <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <ul>
-            <li>List</li>
-            <li>List</li>
-            <li><a href="#">List</a></li>
-            <li>List</li>
-          </ul>
+          <div class="sidebar-title">Monthly Poll</div>
+         
+         <form method="post" action="https://poll.pollcode.com/58231271"><div style="background-color:#dc85c3;padding:2px;width:135px;font-family:Arial;font-size:small;color:#000000;box-shadow: 0px 0px 5px #888;">
+         <div style="padding:2px 0px 4px 2px;"><strong>isn't this website awesome?!</strong></div><input type="radio" name="answer" value="1" id="answer582312711" style="float:left;" /><label for="answer582312711" style="float:left;width:110px;">yeah</label>
+         <div style="clear:both;height:2px;"></div><input type="radio" name="answer" value="2" id="answer582312712" style="float:left;" /><label for="answer582312712" style="float:left;width:110px;">hell yeah!</label><div style="clear:both;height:2px;"></div>
+         <div align="center" style="padding:3px;"><input type="submit" value=" Vote ">&nbsp;<input type="submit" name="view" value=" View "></div><div align="right" style="font-size:10px">pollcode.com <a href="https://pollcode.com/">free polls</a></div></div></form>
+
         </div>
 		<div class="sidebar-section">
           <div class="sidebar-title">Press my buttons, baby!</div>
