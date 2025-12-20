@@ -42,13 +42,12 @@ function headerHTML() {
         <div class="sidebar-section">
           <div class="sidebar-title"><p>hits & current visitors <img class="image" alt="stats gif" src="https://i.imgur.com/kGkEiqz.gif" style="width: 15%"/></p></div>
           <blockquote>
-          <script type="text/javascript" src="https://counter.websiteout.com/js/28/5/0/0"></script>
           <a style="position:static;z-index:1339; !important;top:55px;left:3px;" href="http://www.snazzyspace.com/generators/viewer-counter/" title="SnazzySpace.com Viewer Counter" target="_blank">
           <img src="http://www.snazzyspace.com/generators/viewer-counter/counter.php/fid=1766180608/style=6/counter.png" border="0"></a>
           </blockquote>
         </div>
         <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
+          <div class="sidebar-title">Changelog</div>
           <blockquote>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
             <p>Necessit atibus perferendis inventore tempore vel optio similique blanditiis quasi quam?</p>
