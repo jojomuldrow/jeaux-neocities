@@ -63,9 +63,11 @@ body {
   border: 5px solid;
   border-style: dotted;
 
-  h1 {
-    text-align: center;
-  }
+  img {
+      display: block;
+      margin: auto;
+      height: 40px;
+    }
 
 }
 
