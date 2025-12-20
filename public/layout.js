@@ -49,8 +49,7 @@ function headerHTML() {
         <div class="sidebar-section">
           <div class="sidebar-title">Changelog</div>
           <blockquote>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            <p>Necessit atibus perferendis inventore tempore vel optio similique blanditiis quasi quam?</p>
+            <img class="full-width-image" src="https://i.imgur.com/ljzuUvy.gif">
           </blockquote>
         </div>
         <div class="sidebar-section">
