@@ -75,8 +75,8 @@ function headerHTML() {
 		  </marquee>
         </div>
 		<div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <img class="full-width-image" src="https://picsum.photos/id/25/900/400">
+          <div class="sidebar-title">My Fave Sites</div>
+          <img class="full-width-image" src="https://i.imgur.com/9FSJm30.gif">
         </div>
 		<div class="sidebar-section">
           <div class="sidebar-title">Link back!</div>
