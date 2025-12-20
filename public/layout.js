@@ -75,7 +75,7 @@ function headerHTML() {
         </div>
 		<div class="sidebar-section">
           <div class="sidebar-title">My Fave Sites</div>
-          <img class="full-width-image" src="https://i.imgur.com/9FSJm30.gif">
+          <a href="https://www.linkslist.app/CuPswez" target="_blank"><img src="https://i.imgur.com/xSIuZ3W.gif" alt="fave sites button"></a>
         </div>
 		<div class="sidebar-section">
           <div class="sidebar-title">Link back!</div>
