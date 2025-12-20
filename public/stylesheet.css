@@ -55,9 +55,6 @@ body {
   line-height: 1.2;
 }
 
-html {cursor: url("https: //i.imgur.com/6kZrYXZ.png"), auto;
-
-}
 
 #welcomeDIV {
   width: 100%;
@@ -261,6 +258,14 @@ footer a:visited {
 footer a:hover,
 footer a:focus {
   color: var(--link-color-hover);
+}
+
+ /* Start https://www.cursors-4u.com */
+ * {
+   cursor: url(https://cur.cursors-4u.net/anime/ani-9/ani839.cur), auto !important;
+ }
+
+ /* End https://www.cursors-4u.com */
 }
 
 /* -------------------------------------------------------- */
