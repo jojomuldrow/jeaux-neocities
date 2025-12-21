@@ -1,0 +1,17 @@
+#canvas-container {
+    display: flex;
+    justify-content: center;
+    /* Horizontal centering */
+
+}
+
+h1 {
+    text-align: center;
+}
+
+#drawing-controls {
+    display: flex;
+    justify-content: center;
+    /* Horizontal centering */
+
+}
