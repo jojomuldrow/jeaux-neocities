@@ -94,6 +94,12 @@ a:focus {
   text-decoration: none;
 }
 
+iframe {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+  /* Example width - adjust as needed */
+}
 /* -------------------------------------------------------- */
 /* LAYOUT */
 
