@@ -96,7 +96,7 @@ function footerHTML() {
   // Example: <img src="${nesting}img/logo.png"> might output <img src="../img/logo.png">
 
   return `
-<footer><div>Thanks 4 visiting! <a href="#">Back To Top.</a> Template generated with <a href="https://petrapixel.neocities.org/coding/layout-generator.html">petrapixel's layout generator</a>.</div></footer>`;
+<footer><div>Thanks 4 visiting! <a href="#top">Back To Top.</a> Template generated with <a href="https://petrapixel.neocities.org/coding/layout-generator.html">petrapixel's layout generator</a>.</div></footer>`;
 }
 
 function getNesting() {
