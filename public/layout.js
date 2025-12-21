@@ -58,7 +58,9 @@ function headerHTML() {
 </div>
 </div>
         <div class="sidebar-section">
-          <div class="sidebar-title">Changelog</div>
+          <div class="sidebar-title">Changelog
+          <img class="image" alt="file gif" src="https://i.imgur.com/j2NLe7a.gif" style="width: 10%"/>
+          </div>
           <blockquote>
             <img class="full-width-image" src="https://i.imgur.com/ljzuUvy.gif">
           </blockquote>
