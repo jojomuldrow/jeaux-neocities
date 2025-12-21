@@ -174,6 +174,8 @@ aside {
   font-weight: bold;
   font-size: 1.2em;
   font-family: var(--heading-font);
+  text-align: center;
+  border-style: double;
   img {
       float: right;
       margin: 0px 45px 0px 0px;
@@ -282,6 +284,25 @@ footer a:focus {
  }
 
  /* End https://www.cursors-4u.com */
+
+ .tamaNOTchi {
+   display: flex;
+   /* Activates flexbox layout */
+   justify-content: center;
+   /* Centers items horizontally within the container */
+   position: relative;
+   top: 15px;
+
+ }
+
+ .fave-sites {
+   display: flex;
+   /* Activates flexbox layout */
+   justify-content: center;
+   /* Centers items horizontally within the container */
+   position: relative;
+   top: 15px;
+ }
 
 
 /* -------------------------------------------------------- */

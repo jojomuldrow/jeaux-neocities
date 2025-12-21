@@ -47,6 +47,16 @@ function headerHTML() {
           <img src="http://www.snazzyspace.com/generators/viewer-counter/counter.php/fid=1766180608/style=6/counter.png" border="0"></a>
           </blockquote>
         </div>
+            <div class="sidebar-section"> 
+        <div class="sidebar-title">
+        Feed Me!
+        
+        <img class="image" alt="slime gif" src="https://i.imgur.com/R2g2lwA.gif" style="width: 15%"/>
+        </div>
+ <div class="tamaNOTchi"> 
+<a href="https://tamanotchi.world/28551c"><img src="https://tamanotchi.world/i2/28551" alt="It's tamaNOTchi! Click to feed!"></a>
+</div>
+</div>
         <div class="sidebar-section">
           <div class="sidebar-title">Changelog</div>
           <blockquote>
@@ -76,7 +86,9 @@ function headerHTML() {
         </div>
 		<div class="sidebar-section">
           <div class="sidebar-title">My Fave Sites</div>
+          <div class="fave-sites">
           <a href="https://www.linkslist.app/CuPswez" target="_blank"><img src="https://i.imgur.com/xSIuZ3W.gif" alt="fave sites button"></a>
+        </div>
         </div>
 		<div class="sidebar-section">
           <div class="sidebar-title">Link back!</div>
