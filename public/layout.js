@@ -31,7 +31,7 @@ function headerHTML() {
               <li><a href="ezine.html">E-Zines</a></li>
 	            <li><a href="#">Photobook</a></li>
               <li><a href="#">Music</a></li>
-	            <li><a href="#">Resources</a></li>
+	            <li><a href="Resources.html">Resources</a></li>
 	            <li><a href="othersocials.html">Other Socials</a></li>
 	          </ul>
 	        </>
