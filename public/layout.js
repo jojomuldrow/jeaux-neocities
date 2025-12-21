@@ -27,9 +27,9 @@ function headerHTML() {
 	          <ul>
 	            <li><a href="index.html">Home</a></a></li>
 	            <li><a href="diary.html">Diary</a></li>
-	            <li><a href="myart.html">My Art</a></li>
+	            <li><a href="myart.html">Art Gallery</a></li>
               <li><a href="ezine.html">E-Zines</a></li>
-	            <li><a href="#">Shrine(s)</a></li>
+	            <li><a href="#">Photos</a></li>
 	            <li><a href="#">Resources</a></li>
 	            <li><a href="othersocials.html">Other Socials</a></li>
 	          </ul>
