@@ -350,6 +350,29 @@ footer a:focus {
       /* Ensures buttons don't overflow on small screens */
     }
 
+        .stamp-container {
+          display: flex;
+          flex-wrap: wrap;
+          /* Allows buttons to wrap to the next line */
+          gap: 10px;
+          /* Space between buttons */
+          justify-content: center;
+          /* Centers buttons horizontally */
+        }
+    
+        .stamp-container a {
+          /* Optional: Style the link itself if needed */
+          display: block;
+          /* Make the whole area clickable */
+        }
+    
+        .stamp-container img {
+          border: 1px solid #000;
+          /* Example border */
+          max-width: 100%;
+          /* Ensures buttons don't overflow on small screens */
+        }
+
 /* -------------------------------------------------------- */
 /* NAVIGATION */
 
